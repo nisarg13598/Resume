@@ -1,0 +1,49 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.header{
+    background-color: #36213e;
+    color: antiquewhite;
+    text-align: center;
+    padding-bottom: 10px;
+    margin: auto;
+    
+}
+.header a {
+    color: antiquewhite;
+       }
+
+ .pic{
+    display: flex;
+flex-direction: row;
+justify-content:left;
+font-size:17px;
+
+
+
+ }
+       
+.pic img
+{
+    height: 1270px;
+    width: 45%;
+    margin-right: 10px;
+    }
+.pic h2 {
+    margin-top: 10px;
+    text-decoration: underline;
+    color: black;
+    }
+    .pic h5 {
+        color:rgb(67, 66, 66);
+        margin-top: 10px;
+        
+    }
+    .pic h4{
+        color:green;
+    }
+    .pic p{
+        margin-top: 10px;
+        font-size: 17px;
+    }
